@@ -2,14 +2,6 @@
 
 Verifica se o aplicativo será considerado amigável pelo usuário. Procura perceber se haverá qualquer elemento da interface que possa causar rejeição por parte do usuário do software. O teste de aceitação é uma validação que o usuário faz antes de colocar em produção. Basicamente, ele verifica se o sistema faz o que ele solicitou e atende requisitos específicos (cores da empresa do cliente, tempo de resposta baixo, etc). O cliente decide o que ele irá validar nesse teste – que também pode ser realizado nos processos que irão avaliar a usabilidade.
 
-**Teste de Caixa-Branca**
-
-Idealmente, o teste de caixa-branca testa todas as partes do código do aplicativo. Trata-se de um procedimento estrutural que avalia os componentes internos de um programa para encontrar falhas que serão solucionadas pelos desenvolvedores do aplicativo.
-
-**Teste de Caixa-Preta**
-
-Analisa todas as entradas e saídas desejadas para o aplicativo e mapeia todos os erros percebidos. Entre outras funções, serve para simular os possíveis equívocos operacionais, que podem ser cometidos pelos futuros usuários, para saber como o software responderá.
-
 **Teste de Carga**
 
 Avalia como o software se comporta quando há um grande número de usuários simultâneos.
