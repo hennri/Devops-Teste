@@ -2,8 +2,10 @@
   
   
 
+Esquema de uma Pirâmide de Testes Tradicional:
 
-topo da Pirâmide---- Testes Funcionais Manuais: Foco na interface gráfica basseado no modelo do projeto
+
+topo da Pirâmide---- Testes Funcionais Manuais: Foco na interface gráfica basseado no modelo do projeto (V ou Cascata por exemplo)
 
 nível Médio da Pirâmide---- Testes Automatizados: Foco na interface gráfica via capture/playback
 
