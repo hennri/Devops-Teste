@@ -27,14 +27,8 @@ validação e verificação não são processos independetes.
 
 4 – Quais os objetivos do teste?
 
-Teste de Caixa-Branca
-
-Idealmente, o teste de caixa-branca testa todas as partes do código do aplicativo. Trata-se de um procedimento estrutural que avalia os componentes internos de um programa para encontrar falhas que serão solucionadas pelos desenvolvedores do aplicativo.
-
-Teste de Caixa-Preta
-
-Analisa todas as entradas e saídas desejadas para o aplicativo e mapeia todos os erros percebidos. Entre outras funções, serve para simular os possíveis equívocos operacionais, que podem ser cometidos pelos futuros usuários, para saber como o software responderá.
-
+Geralmente testes estão presentes em todas as etapas do desenvolvimento. Testes asseguram se cada parte do sistemas está
+de acordo com o esperado. Atualmente, entretanto, esse processo vai além de funcionalidade, procurando validar também usabilidade, performance, entre outrás características desejáveis em uma aplicação de qualidade.
 
 --------------------------------------------------------------------------------------------------------------------
 
