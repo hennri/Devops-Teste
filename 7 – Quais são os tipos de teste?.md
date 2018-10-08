@@ -65,3 +65,6 @@ Valida o funcionamento de cada componente individual do aplicativo, unidade a un
 **Teste de Usabilidade**
 
 Teste voltado para a experiência do usuário, como irá acessar as funcionalidades, se as interfaces facilitam as operações, têm padrão visual e seu layout está adequado ao uso pretendido, assim como validam os materiais de treinamento (manual do usuário, tutoriais, help online).
+
+
+guilherme ribeiro nogueira 1800232
