@@ -6,3 +6,6 @@ Idealmente, o teste de caixa-branca testa todas as partes do código do aplicati
 **Teste de Caixa-Preta**
 
 Analisa todas as entradas e saídas desejadas para o aplicativo e mapeia todos os erros percebidos. Entre outras funções, serve para simular os possíveis equívocos operacionais, que podem ser cometidos pelos futuros usuários, para saber como o software responderá.
+
+
+guilherme ribeiro nogueira 1800232
