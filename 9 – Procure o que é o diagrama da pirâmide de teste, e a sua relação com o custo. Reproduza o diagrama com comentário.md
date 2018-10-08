@@ -2,3 +2,7 @@
  
 Segue Link com exemplo do diagrama:
 https://github.com/angrenost/Imagem_Piramide/blob/master/ImagemLeo-1-1024x628.png
+
+
+Sergio Ferraz Almeida
+RA 1800709
