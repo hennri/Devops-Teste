@@ -3,4 +3,4 @@
 O teste é um processo realizado pelo testador de software, que permeia outros processos da engenharia de software, e que envolve ações que vão do levantamento de requisitos até a execução do teste propriamente dito.
 
 
-guilherme ribeiro nogueira 180023
+guilherme ribeiro nogueira 1800232
